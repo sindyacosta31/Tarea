@@ -1,0 +1,14 @@
+.column{
+  background-color: #343a40;
+  border:2px solid #a39cad;
+}
+
+.nested{
+  background: gray;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  background: #edeaea;
+}
